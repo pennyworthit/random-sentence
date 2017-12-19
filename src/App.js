@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function getRandomIntInclusive(min, max) {
@@ -37,7 +36,6 @@ class App extends Component {
     this.state = {
       source: '',
       target: '',
-      innnerSource: '',
     };
   }
 
