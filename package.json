@@ -2,7 +2,7 @@
   "name": "random-sentence",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pennyworthit.github.io/randomize-sentences",
+  "homepage": "https://pennyworthit.github.io/randomize-sentences/",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
